@@ -1,0 +1,2434 @@
+<?xml version="1.0"?>
+<urlset xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tejav.com/blog/1508/divisor-game-math-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-01T15:52:33.634Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/6b96da3e-1c05-4ea4-b518-1870b9638ba6.jpg</image:loc>
+      <image:caption>Divisor Game - Math - Easy - LeetCode</image:caption>
+      <image:title>Divisor Game - Math - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1509/valid-boomerang-math-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-01T16:04:29.808Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/bb72c6a2-b688-45f0-99ab-d4a1dec7c260.jpg</image:loc>
+      <image:caption>Valid Boomerang - Math - Easy - LeetCode</image:caption>
+      <image:title>Valid Boomerang - Math - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1510/distribute-candies-to-people-math-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-01T16:15:10.613Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/b81399d9-b1f5-4133-9676-1ec08349c7da.jpg</image:loc>
+      <image:caption>Distribute Candies to People - Math - Easy - LeetCode</image:caption>
+      <image:title>Distribute Candies to People - Math - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1511/day-of-the-year-math-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-01T16:34:01.192Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/c8508165-c7c7-47f2-8235-3bada9e132e8.jpg</image:loc>
+      <image:caption>Day of the Year - Math - Easy - LeetCode</image:caption>
+      <image:title>Day of the Year - Math - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1512/prime-arrangements-math-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-02T05:02:49.754Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/ec98c3ac-6620-48f4-92a2-3b95d370a27a.jpg</image:loc>
+      <image:caption>Prime Arrangements - Math - Easy - LeetCode</image:caption>
+      <image:title>Prime Arrangements - Math - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1513/find-positive-integer-solution-for-a-given-equation-math-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-02T06:53:54.369Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/861bfca3-6a88-4da4-9489-d24f8110c821.jpg</image:loc>
+      <image:caption>Find Positive Integer Solution for a Given Equation - Math - Easy - LeetCode</image:caption>
+      <image:title>Find Positive Integer Solution for a Given Equation - Math - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1514/subtract-the-product-and-sum-of-digits-of-an-integer-math-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-02T07:07:46.286Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/570ab03d-1098-4874-a837-6734263328dc.jpg</image:loc>
+      <image:caption>Subtract the Product and Sum of Digits of an Integer - Math - Easy - LeetCode</image:caption>
+      <image:title>Subtract the Product and Sum of Digits of an Integer - Math - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1515/convert-integer-to-the-sum-of-two-no-zero-integers-math-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-02T07:35:34.568Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/80933984-f708-441c-b15f-48201c86ed89.jpg</image:loc>
+      <image:caption>Convert Integer to the Sum of Two No-Zero Integers - Math - Easy - LeetCode</image:caption>
+      <image:title>Convert Integer to the Sum of Two No-Zero Integers - Math - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1516/maximum-69-number-math-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-02T07:46:15.861Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/b896dfd9-15c8-4543-8c0e-88e38f8ee5a7.jpg</image:loc>
+      <image:caption>Maximum 69 Number - Math - Easy - LeetCode</image:caption>
+      <image:title>Maximum 69 Number - Math - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1517/count-odd-numbers-in-an-interval-range-math-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-02T08:04:42.02Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/73fa83b2-dfd4-4a69-9a9a-018f825d16b6.jpg</image:loc>
+      <image:caption>Count Odd Numbers in an Interval Range - Math - Easy - LeetCode</image:caption>
+      <image:title>Count Odd Numbers in an Interval Range - Math - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1518/backspace-string-compare-math-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-02T08:54:08.226Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/2317b6e6-406c-443f-9d8f-a2967128fb9d.jpg</image:loc>
+      <image:caption>Backspace String Compare - Math - Easy - LeetCode</image:caption>
+      <image:title>Backspace String Compare - Math - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1519/path-crossing-string-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-02T09:33:58.835Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/a28decf6-6f2f-4a7a-990b-ddcf45aa955f.jpg</image:loc>
+      <image:caption>Path Crossing - String - Easy - LeetCode</image:caption>
+      <image:title>Path Crossing - String - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1520/reformat-date-string-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-02T10:00:14.916Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/52b9f146-d608-44e9-8fe3-68cb454d96f7.jpg</image:loc>
+      <image:caption>Reformat Date - String - Easy - LeetCode</image:caption>
+      <image:title>Reformat Date - String - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1521/make-the-string-great-string-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-02T10:21:02.743Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/1246608d-9e19-438a-8216-3327c85b02da.jpg</image:loc>
+      <image:caption>Make The String Great - String - Easy - LeetCode</image:caption>
+      <image:title>Make The String Great - String - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1522/thousand-separator-string-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-02T10:39:35.237Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/5a446617-8466-42ea-beb2-1a0ff620fba8.jpg</image:loc>
+      <image:caption>Thousand Separator - String - Easy - LeetCode</image:caption>
+      <image:title>Thousand Separator - String - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1523/replace-all-to-avoid-consecutive-repeating-characters-string-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-02T11:16:05.876Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/6d76f4d8-f4e4-4634-95a7-a35ea72d49c1.jpg</image:loc>
+      <image:caption>Replace All ? to Avoid Consecutive Repeating Characters - String - Easy - LeetCode</image:caption>
+      <image:title>Replace All ? to Avoid Consecutive Repeating Characters - String - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1524/rearrange-spaces-between-words-string-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-02T11:34:58.718Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/14fd5351-f838-4c15-8e78-5201b52966a2.jpg</image:loc>
+      <image:caption>Rearrange Spaces Between Words - String - Easy - LeetCode</image:caption>
+      <image:title>Rearrange Spaces Between Words - String - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1525/first-bad-version-string-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-03T06:08:12.406Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/68f66e7f-3d2d-43bd-8b35-f191a47b6da0.jpg</image:loc>
+      <image:caption>First Bad Version - String - Easy - LeetCode</image:caption>
+      <image:title>First Bad Version - String - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1526/guess-number-higher-or-lower-string-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-03T06:18:47.469Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/abceb328-ec0a-4a40-9d8d-d16c5e68eb34.jpg</image:loc>
+      <image:caption>Guess Number Higher or Lower - String - Easy - LeetCode</image:caption>
+      <image:title>Guess Number Higher or Lower - String - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1527/is-subsequence-string-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-03T06:37:08.518Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/26b10582-d5e3-40c5-a5b0-e4cc40f39987.jpg</image:loc>
+      <image:caption>Is Subsequence - String - Easy - LeetCode</image:caption>
+      <image:title>Is Subsequence - String - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1528/heaters-string-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-03T06:56:37.868Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/ffc9ba39-9f78-4ca6-94e1-1dde1509b9eb.jpg</image:loc>
+      <image:caption>Heaters - String - Easy - LeetCode</image:caption>
+      <image:title>Heaters - String - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1529/binary-search-array-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-03T07:18:50.574Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/1bdbefea-1a59-4d99-a74b-c5c1823ebc39.jpg</image:loc>
+      <image:caption>Binary Search - Array - Easy - LeetCode</image:caption>
+      <image:title>Binary Search - Array - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1530/aiims-report-rules-out-sushant-singh-rajput-murder-theories-say-sources/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-03T08:10:24.48Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/9ebf5700-4b59-4f0f-9e11-44dbd7a80071.png</image:loc>
+      <image:caption>AIIMS Report Rules Out Sushant Singh Rajput Murder Theories, Say Sources</image:caption>
+      <image:title>AIIMS Report Rules Out Sushant Singh Rajput Murder Theories, Say Sources</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1531/find-smallest-letter-greater-than-target-array-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-03T08:36:45.493Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/757213b3-c73f-490c-97e0-d6778dc4e981.jpg</image:loc>
+      <image:caption>Find Smallest Letter Greater Than Target - Array - Easy - LeetCode</image:caption>
+      <image:title>Find Smallest Letter Greater Than Target - Array - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1532/peak-index-in-a-mountain-array-array-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-03T09:30:47.133Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/34aca53b-c6e4-427b-945f-5c7881cdba25.jpg</image:loc>
+      <image:caption>Peak Index in a Mountain Array - Array - Easy - LeetCode</image:caption>
+      <image:title>Peak Index in a Mountain Array - Array - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1533/house-robber-array-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-03T09:53:24.869Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/2717f343-9cb4-4034-ac53-2988b9967c7c.jpg</image:loc>
+      <image:caption>House Robber - Array - Easy - LeetCode</image:caption>
+      <image:title>House Robber - Array - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1534/range-sum-query-immutable-array-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-03T10:01:07.585Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/bfa9c4e7-d1a4-4718-b80b-18fa3fcbc1a3.jpg</image:loc>
+      <image:caption>Range Sum Query - Immutable - Array - Easy - LeetCode</image:caption>
+      <image:title>Range Sum Query - Immutable - Array - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1535/binary-watch-immutable-array-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-03T10:45:11.92Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/1e287cd8-b266-4f82-bd34-f9d44dadc5b4.jpg</image:loc>
+      <image:caption>Binary Watch - Immutable - Array - Easy - LeetCode</image:caption>
+      <image:title>Binary Watch - Immutable - Array - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1536/implement-stack-using-queues-stack-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-03T11:28:06.825Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/d4702131-8b2b-4f45-a635-10e5efea282b.jpg</image:loc>
+      <image:caption>Implement Stack using Queues - Stack - Easy - LeetCode</image:caption>
+      <image:title>Implement Stack using Queues - Stack - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1537/implement-queue-using-stacks-stack-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-03T11:46:14.88Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/c936be58-88e9-44a4-8a17-123b102b3e6f.jpg</image:loc>
+      <image:caption>Implement Queue using Stacks - Stack - Easy - LeetCode</image:caption>
+      <image:title>Implement Queue using Stacks - Stack - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1538/next-greater-element-i-stacks-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-03T12:43:25.509Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/77322c88-6360-41ec-8f11-72888f8f5b19.jpg</image:loc>
+      <image:caption>Next Greater Element I - Stacks - Easy - LeetCode</image:caption>
+      <image:title>Next Greater Element I - Stacks - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1539/baseball-game-stacks-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-03T13:45:53.68Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/89c84ae6-9105-4f18-97a7-650643f21278.jpg</image:loc>
+      <image:caption>Baseball Game - Stacks - Easy - LeetCode</image:caption>
+      <image:title>Baseball Game - Stacks - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1540/remove-outermost-parentheses-stacks-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-03T14:10:53.793Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/6315b40b-4be9-4bf6-97e7-331f0ce835f3.jpg</image:loc>
+      <image:caption>Remove Outermost Parentheses - Stacks - Easy - LeetCode</image:caption>
+      <image:title>Remove Outermost Parentheses - Stacks - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1541/remove-all-adjacent-duplicates-in-string-stacks-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-03T14:20:32.425Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/6ae93657-84e0-4b3f-8529-91be14799cde.jpg</image:loc>
+      <image:caption>Remove All Adjacent Duplicates In String - Stacks - Easy - LeetCode</image:caption>
+      <image:title>Remove All Adjacent Duplicates In String - Stacks - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1542/build-an-array-with-stack-operations-stacks-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-03T14:35:00.504Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/6eb33e3a-ba38-40de-8766-8b6fbbe8a890.jpg</image:loc>
+      <image:caption>Build an Array With Stack Operations - Stacks - Easy - LeetCode</image:caption>
+      <image:title>Build an Array With Stack Operations - Stacks - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1543/crawler-log-folder-stacks-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-03T14:41:42.417Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/32e1873a-b4f9-4731-8f9d-98d4d9928abe.jpg</image:loc>
+      <image:caption>Crawler Log Folder - Stacks - Easy - LeetCode</image:caption>
+      <image:title>Crawler Log Folder - Stacks - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1544/kth-largest-element-in-a-stream-heap-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-04T15:40:25.992Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/f23b4939-7f3f-421f-8b39-469fd582351b.jpg</image:loc>
+      <image:caption>Kth Largest Element in a Stream - Heap - Easy - LeetCode</image:caption>
+      <image:title>Kth Largest Element in a Stream - Heap - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1545/last-stone-weight-heap-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-04T17:15:52.351Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/a5fa374c-d4ce-4495-8c28-cbdcb7b9822a.jpg</image:loc>
+      <image:caption>Last Stone Weight - Heap - Easy - LeetCode</image:caption>
+      <image:title>Last Stone Weight - Heap - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1546/assign-cookies-greedy-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-05T04:51:16.232Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/a118ae38-7088-46e4-827c-723731b99de3.jpg</image:loc>
+      <image:caption>Assign Cookies - Greedy - Easy - LeetCode</image:caption>
+      <image:title>Assign Cookies - Greedy - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1547/lemonade-change-greedy-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-05T04:59:25.263Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/0a82ebf9-36e4-4238-904f-94c734cc7c37.jpg</image:loc>
+      <image:caption>Lemonade Change - Greedy - Easy - LeetCode</image:caption>
+      <image:title>Lemonade Change - Greedy - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1548/walking-robot-simulation-greedy-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-05T06:58:55.25Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/7809996e-466c-4a9b-84d4-a004918a469b.jpg</image:loc>
+      <image:caption>Walking Robot Simulation - Greedy - Easy - LeetCode</image:caption>
+      <image:title>Walking Robot Simulation - Greedy - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1549/delete-columns-to-make-sorted-greedy-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-05T08:02:46.675Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/ee4c88d0-0997-42fb-be32-5870620b1e37.jpg</image:loc>
+      <image:caption>Delete Columns to Make Sorted - Greedy - Easy - LeetCode</image:caption>
+      <image:title>Delete Columns to Make Sorted - Greedy - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1550/maximize-sum-of-array-after-k-negations-greedy-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-05T09:20:51.599Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/75abc065-f2ab-4037-9471-74f097694550.jpg</image:loc>
+      <image:caption>Maximize Sum Of Array After K Negations - Greedy - Easy - LeetCode</image:caption>
+      <image:title>Maximize Sum Of Array After K Negations - Greedy - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1551/minimum-subsequence-in-non-increasing-order-greedy-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-05T09:35:37.731Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/a0ff0d50-ca28-4729-b010-c2bbb58d96e1.jpg</image:loc>
+      <image:caption>Minimum Subsequence in Non-Increasing Order - Greedy - Easy - LeetCode</image:caption>
+      <image:title>Minimum Subsequence in Non-Increasing Order - Greedy - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1552/water-bottles-greedy-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-05T09:44:47.673Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/be3d0bb1-5427-425f-92dd-4a68fc1a9068.jpg</image:loc>
+      <image:caption>Water Bottles - Greedy - Easy - LeetCode</image:caption>
+      <image:title>Water Bottles - Greedy - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1553/matrix-cells-in-distance-order-sort-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-05T10:29:44.075Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/740965fd-d849-4ae0-8784-87f437a62181.jpg</image:loc>
+      <image:caption>Matrix Cells in Distance Order - Sort - Easy - LeetCode</image:caption>
+      <image:title>Matrix Cells in Distance Order - Sort - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1554/sort-integers-by-the-number-of-1-bits-sort-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-05T10:45:04.655Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/7007c4d9-2958-4b6a-8a5e-379076ab7b5f.jpg</image:loc>
+      <image:caption>Sort Integers by The Number of 1 Bits - Sort - Easy - LeetCode</image:caption>
+      <image:title>Sort Integers by The Number of 1 Bits - Sort - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1555/shuffle-string-sort-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-05T11:06:22.728Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/e9e475ea-ec0e-48be-b9e3-0d0788304ef0.jpg</image:loc>
+      <image:caption>Shuffle String - Sort - Easy - LeetCode</image:caption>
+      <image:title>Shuffle String - Sort - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1556/reverse-bits-bit-manipulation-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-05T11:53:39.094Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/d4b2e860-6b2d-4640-82db-af6eab2ed36a.jpg</image:loc>
+      <image:caption>Reverse Bits - Bit Manipulation - Easy - LeetCode</image:caption>
+      <image:title>Reverse Bits - Bit Manipulation - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1557/number-of-1-bits-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-05T12:39:37.539Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/81eaa719-b550-436a-8b77-e8698457ee39.jpg</image:loc>
+      <image:caption>Number of 1 Bits - Easy - LeetCode</image:caption>
+      <image:title>Number of 1 Bits - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1558/power-of-four-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-05T12:57:53.062Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/e049be7d-b0a4-4781-8dd9-03334b15e391.jpg</image:loc>
+      <image:caption>Power of Four - Easy - LeetCode</image:caption>
+      <image:title>Power of Four - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1559/convert-a-number-to-hexadecimal-bit-manipulation-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-06T06:35:50.179Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/4f47ebec-4f69-46d8-99f1-1eda50d9e297.jpg</image:loc>
+      <image:caption>Convert a Number to Hexadecimal - Bit Manipulation - Easy - LeetCode</image:caption>
+      <image:title>Convert a Number to Hexadecimal - Bit Manipulation - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1560/hamming-distance-bit-manipulation-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-06T06:45:08.921Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/542a96ad-853b-4bcf-ae4a-fb6955795b7b.jpg</image:loc>
+      <image:caption>Hamming Distance - Bit Manipulation - Easy - LeetCode</image:caption>
+      <image:title>Hamming Distance - Bit Manipulation - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1561/number-complement-bit-manipulation-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-06T08:39:39.785Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/b356a014-8311-4317-ac21-b43fa1f6ea7c.jpg</image:loc>
+      <image:caption>Number Complement - Bit Manipulation - Easy - LeetCode</image:caption>
+      <image:title>Number Complement - Bit Manipulation - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1562/binary-number-with-alternating-bits-bit-manipulation-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-06T09:24:58.56Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/ddcad4a4-fb4d-4431-a952-364d812a1226.jpg</image:loc>
+      <image:caption>Binary Number with Alternating Bits - Bit Manipulation - Easy - LeetCode</image:caption>
+      <image:title>Binary Number with Alternating Bits - Bit Manipulation - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1563/prime-number-of-set-bits-in-binary-representation-bit-manipulation-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-06T09:32:44.766Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/8ff23690-a1ec-487a-a860-51faf94bafb7.jpg</image:loc>
+      <image:caption>Prime Number of Set Bits in Binary Representation - Bit Manipulation - Easy - LeetCode</image:caption>
+      <image:title>Prime Number of Set Bits in Binary Representation - Bit Manipulation - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1564/number-of-steps-to-reduce-a-number-to-zero-bit-manipulation-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-06T09:44:13.892Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/fd517175-fcc4-4ea1-ab97-525cf26aeabc.jpg</image:loc>
+      <image:caption>Number of Steps to Reduce a Number to Zero - Bit Manipulation - Easy - LeetCode</image:caption>
+      <image:title>Number of Steps to Reduce a Number to Zero - Bit Manipulation - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1565/same-tree-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-06T12:11:43.376Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/f30f179e-60ef-425f-aa3f-5d9d343cfe97.jpg</image:loc>
+      <image:caption>Same Tree - Tree - Easy - LeetCode</image:caption>
+      <image:title>Same Tree - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1566/maximum-depth-of-binary-tree-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-06T13:08:50.491Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/46f118cf-bf37-4c04-90b1-2d41a7561e3d.jpg</image:loc>
+      <image:caption>Maximum Depth of Binary Tree - Tree - Easy - LeetCode</image:caption>
+      <image:title>Maximum Depth of Binary Tree - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1567/binary-tree-level-order-traversal-ii-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-06T13:17:09.034Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/a136a23c-7eb7-4aa1-9a2b-ed03cc026177.jpg</image:loc>
+      <image:caption>Binary Tree Level Order Traversal II - Tree - Easy - LeetCode</image:caption>
+      <image:title>Binary Tree Level Order Traversal II - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1568/convert-sorted-array-to-binary-search-tree-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-06T13:26:11.017Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/8270223b-6b31-4eef-b37f-adfc7656ad5f.jpg</image:loc>
+      <image:caption>Convert Sorted Array to Binary Search Tree - Tree - Easy - LeetCode</image:caption>
+      <image:title>Convert Sorted Array to Binary Search Tree - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1569/balanced-binary-tree-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-06T13:46:08.3Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/a02672ff-1bfd-42f4-b3e1-900ad9c690d2.jpg</image:loc>
+      <image:caption>Balanced Binary Tree - Tree - Easy - LeetCode</image:caption>
+      <image:title>Balanced Binary Tree - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1570/minimum-depth-of-binary-tree-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-06T13:57:05.072Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/8accc3c3-568f-41c5-802c-290cc011c286.jpg</image:loc>
+      <image:caption>Minimum Depth of Binary Tree - Tree - Easy - LeetCode</image:caption>
+      <image:title>Minimum Depth of Binary Tree - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1571/path-sum-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-06T14:06:16.586Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/6a94315a-4048-49fe-b47e-88c1b010b589.jpg</image:loc>
+      <image:caption>Path Sum - Tree - Easy - LeetCode</image:caption>
+      <image:title>Path Sum - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1572/binary-tree-paths-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-06T14:22:21.599Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/93874631-b0aa-4d7d-a413-084a6380763d.jpg</image:loc>
+      <image:caption>Binary Tree Paths - Tree - Easy - LeetCode</image:caption>
+      <image:title>Binary Tree Paths - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1573/sum-of-left-leaves-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-06T14:29:36.996Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/7428e4d9-3ec0-4c51-b78a-160b42c2d247.jpg</image:loc>
+      <image:caption>Sum of Left Leaves - Tree - Easy - LeetCode</image:caption>
+      <image:title>Sum of Left Leaves - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1574/find-mode-in-binary-search-tree-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-07T05:05:22.255Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/7e61ce7c-697d-4270-8d1b-f48c3bda649b.jpg</image:loc>
+      <image:caption>Find Mode in Binary Search Tree - Tree - Easy - LeetCode</image:caption>
+      <image:title>Find Mode in Binary Search Tree - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1575/minimum-absolute-difference-in-bst-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-07T05:54:50.146Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/38fc5735-489b-44c1-9767-758b3fe5e9c0.jpg</image:loc>
+      <image:caption>Minimum Absolute Difference in BST - Tree - Easy - LeetCode</image:caption>
+      <image:title>Minimum Absolute Difference in BST - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1576/diameter-of-binary-tree-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-07T07:36:14.644Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/d2a25c60-c9a0-4e0c-a9e0-59e5b4819710.jpg</image:loc>
+      <image:caption>Diameter of Binary Tree - Tree - Easy - LeetCode</image:caption>
+      <image:title>Diameter of Binary Tree - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1577/maximum-depth-of-n-ary-tree-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-07T07:49:17.954Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/5c7d09b8-c901-46a5-b6f3-f23acbc38034.jpg</image:loc>
+      <image:caption>Maximum Depth of N-ary Tree - Tree - Easy - LeetCode</image:caption>
+      <image:title>Maximum Depth of N-ary Tree - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1578/binary-tree-tilt-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-07T08:28:04.355Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/55531ca6-6b80-4dbf-96b1-e3333145d1af.jpg</image:loc>
+      <image:caption>Binary Tree Tilt - Tree - Easy - LeetCode</image:caption>
+      <image:title>Binary Tree Tilt - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1579/subtree-of-another-tree-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-07T08:44:20.819Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/048066ef-d215-419f-b675-7fe12d76f496.jpg</image:loc>
+      <image:caption>Subtree of Another Tree - Tree - Easy - LeetCode</image:caption>
+      <image:title>Subtree of Another Tree - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1580/n-ary-tree-preorder-traversal-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-07T08:50:12.614Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/552f3a01-1d02-4d03-9aba-f24879032a40.jpg</image:loc>
+      <image:caption>N-ary Tree Preorder Traversal - Tree - Easy - LeetCode</image:caption>
+      <image:title>N-ary Tree Preorder Traversal - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1581/n-ary-tree-postorder-traversal-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-07T08:56:06.945Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/bd59d4ec-34fa-437f-9580-55b338e839a1.jpg</image:loc>
+      <image:caption>N-ary Tree Postorder Traversal - Tree - Easy - LeetCode</image:caption>
+      <image:title>N-ary Tree Postorder Traversal - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1582/construct-string-from-binary-tree-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-07T09:12:41.839Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/e8b61cbd-801c-4ac5-8279-5792c4fd649e.jpg</image:loc>
+      <image:caption>Construct String from Binary Tree - Tree - Easy - LeetCode</image:caption>
+      <image:title>Construct String from Binary Tree - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1583/merge-two-binary-trees-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-08T03:35:54.193Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/20c35011-6cff-4cac-b2eb-2fe805fd696e.jpg</image:loc>
+      <image:caption>Merge Two Binary Trees - Tree - Easy - LeetCode</image:caption>
+      <image:title>Merge Two Binary Trees - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1584/average-of-levels-in-binary-tree-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-08T04:10:29.201Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/00a270d3-3254-4f73-a90d-6153174f3a15.jpg</image:loc>
+      <image:caption>Average of Levels in Binary Tree - Tree - Easy - LeetCode</image:caption>
+      <image:title>Average of Levels in Binary Tree - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1585/two-sum-iv-input-is-a-bst-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-08T04:36:21.987Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/d4fc6da1-e8bd-4173-9588-4c3ec727e3f2.jpg</image:loc>
+      <image:caption>Two Sum IV - Input is a BST - Tree - Easy - LeetCode</image:caption>
+      <image:title>Two Sum IV - Input is a BST - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1586/trim-a-binary-search-tree-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-08T05:18:52.205Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/efea3822-6700-4fc8-81a6-b51e7ac249f1.jpg</image:loc>
+      <image:caption>Trim a Binary Search Tree - Tree - Easy - LeetCode</image:caption>
+      <image:title>Trim a Binary Search Tree - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1587/second-minimum-node-in-a-binary-tree-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-08T05:48:05.054Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/6562b9e9-1f6e-4026-adfb-418518d45b25.jpg</image:loc>
+      <image:caption>Second Minimum Node In a Binary Tree - Tree - Easy - LeetCode</image:caption>
+      <image:title>Second Minimum Node In a Binary Tree - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1588/longest-univalue-path-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-08T12:25:45.238Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/767bd537-2951-47b6-8d05-b9ca6b615826.jpg</image:loc>
+      <image:caption>Longest Univalue Path - Tree - Easy - LeetCode</image:caption>
+      <image:title>Longest Univalue Path - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1589/search-in-a-binary-search-tree-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-09T04:19:56.582Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/862ff4cf-5f64-4e7f-92ee-63a4017cae63.jpg</image:loc>
+      <image:caption>Search in a Binary Search Tree - Tree - Easy - LeetCode</image:caption>
+      <image:title>Search in a Binary Search Tree - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1590/minimum-distance-between-bst-nodes-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-09T04:46:30.726Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/a016ac3e-361e-465e-ae63-03484dbf5a66.jpg</image:loc>
+      <image:caption>Minimum Distance Between BST Nodes - Tree - Easy - LeetCode</image:caption>
+      <image:title>Minimum Distance Between BST Nodes - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1591/leaf-similar-trees-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-09T05:05:50.02Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/db0b4415-6ae2-4e32-b111-ad26e1d99874.jpg</image:loc>
+      <image:caption>Leaf-Similar Trees - Tree - Easy - LeetCode</image:caption>
+      <image:title>Leaf-Similar Trees - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1592/increasing-order-search-tree-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-09T07:45:33.127Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/32836fb6-9705-48a7-be70-4bd66b1c621e.jpg</image:loc>
+      <image:caption>Increasing Order Search Tree - Tree - Easy - LeetCode</image:caption>
+      <image:title>Increasing Order Search Tree - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1593/range-sum-of-bst-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-09T08:49:55.954Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/2d446765-9ada-4072-93c3-eedfb56f7794.jpg</image:loc>
+      <image:caption>Range Sum of BST - Tree - Easy - LeetCode</image:caption>
+      <image:title>Range Sum of BST - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1594/univalued-binary-tree-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-09T08:58:09.124Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/932c5fe4-9686-4df3-9d52-28ee24f22cf5.jpg</image:loc>
+      <image:caption>Univalued Binary Tree - Tree - Easy - LeetCode</image:caption>
+      <image:title>Univalued Binary Tree - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1595/cousins-in-binary-tree-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-09T09:24:23.315Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/249b4ce9-a2e8-4b2a-a369-264d0c802503.jpg</image:loc>
+      <image:caption>Cousins in Binary Tree - Tree - Easy - LeetCode</image:caption>
+      <image:title>Cousins in Binary Tree - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1596/sum-of-root-to-leaf-binary-numbers-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-09T09:37:29.591Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/41e87329-1dad-4856-9c47-60b67b520656.jpg</image:loc>
+      <image:caption>Sum of Root To Leaf Binary Numbers - Tree - Easy - LeetCode</image:caption>
+      <image:title>Sum of Root To Leaf Binary Numbers - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1597/flood-fill-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-09T13:26:36.925Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/0e3c9311-ee03-4845-8887-471eb8b67c05.jpg</image:loc>
+      <image:caption>Flood Fill - Tree - Easy - LeetCode</image:caption>
+      <image:title>Flood Fill - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1598/find-the-town-judge-tree-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-14T09:06:09.069Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/2f8d0898-e59c-49cd-b25f-5234ed605d94.jpg</image:loc>
+      <image:caption>Find the Town Judge - Tree - Easy - LeetCode</image:caption>
+      <image:title>Find the Town Judge - Tree - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1599/flower-planting-with-no-adjacent-graph-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-15T05:15:47.948Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/db7a0ad4-994c-4a3a-a3c6-63035a00d2da.jpg</image:loc>
+      <image:caption>Flower Planting With No Adjacent - Graph - Easy - LeetCode</image:caption>
+      <image:title>Flower Planting With No Adjacent - Graph - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1600/design-parking-system-design-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-15T05:49:22.82Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/2c48fcf9-50ff-4bd1-9d59-5a5807a0e9ab.jpg</image:loc>
+      <image:caption>Design Parking System - Design - Easy - LeetCode</image:caption>
+      <image:title>Design Parking System - Design - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1601/n-th-tribonacci-number-recursion-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-15T09:12:56.022Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/8864cfe3-0823-418f-867d-6299b93c28bd.jpg</image:loc>
+      <image:caption>N-th Tribonacci Number - Recursion - Easy - LeetCode</image:caption>
+      <image:title>N-th Tribonacci Number - Recursion - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1602/nim-game-brainteaser-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-15T09:32:06.259Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/2d168a53-ceb7-4679-bee4-38527d6e5223.jpg</image:loc>
+      <image:caption>Nim Game - Brainteaser - Easy - LeetCode</image:caption>
+      <image:title>Nim Game - Brainteaser - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1603/moving-stones-until-consecutive-brainteaser-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-16T05:14:17.79Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/e620d162-e256-4aff-b3fa-67c0a4795dd6.jpg</image:loc>
+      <image:caption>Moving Stones Until Consecutive - Brainteaser - Easy - LeetCode</image:caption>
+      <image:title>Moving Stones Until Consecutive - Brainteaser - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1605/number-of-recent-calls-queue-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-16T05:44:07.781Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/946ba741-b1aa-4d55-9040-0f04c2d3678f.jpg</image:loc>
+      <image:caption>Number of Recent Calls - Queue - Easy - LeetCode</image:caption>
+      <image:title>Number of Recent Calls - Queue - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1606/combine-two-tables-sql-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-16T05:53:36.309Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/5b6e96ac-0881-4845-bd1a-6f2f1cbcf99e.jpg</image:loc>
+      <image:caption>Combine Two Tables - Sql - Easy - LeetCode</image:caption>
+      <image:title>Combine Two Tables - Sql - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1604/second-highest-salary-sql-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-16T06:01:35.503Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/cbe876f9-f816-4e65-800b-bbc50dec92d4.jpg</image:loc>
+      <image:caption>Second Highest Salary - Sql - Easy - LeetCode</image:caption>
+      <image:title>Second Highest Salary - Sql - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1607/employees-earning-more-than-their-managers-sql-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-16T06:26:46.282Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/0a6cfc7c-14b2-43e5-8538-b4498ef0b5c3.jpg</image:loc>
+      <image:caption>Employees Earning More Than Their Managers - Sql - Easy - LeetCode</image:caption>
+      <image:title>Employees Earning More Than Their Managers - Sql - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1608/duplicate-emails-sql-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-16T07:15:10.2Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/bd99f209-a7f9-453d-9a5a-c63d4392098f.jpg</image:loc>
+      <image:caption>Duplicate Emails - Sql - Easy - LeetCode</image:caption>
+      <image:title>Duplicate Emails - Sql - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1609/customers-who-never-order-sql-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-16T07:20:46.124Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/3979029e-3ead-4244-a16d-a1344d80e6ec.jpg</image:loc>
+      <image:caption>Customers Who Never Order - Sql - Easy - LeetCode</image:caption>
+      <image:title>Customers Who Never Order - Sql - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1610/valid-phone-numbers-bash-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-16T07:46:13.79Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/903f4733-4a8e-4987-9d87-0e0feefd9f8e.jpg</image:loc>
+      <image:caption>Valid Phone Numbers - Bash - Easy - LeetCode</image:caption>
+      <image:title>Valid Phone Numbers - Bash - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1611/tenth-line-bash-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-16T07:53:14.702Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/2f13c5c6-6e33-47bb-a84b-a78e7452f775.jpg</image:loc>
+      <image:caption>Tenth Line - Bash - Easy - LeetCode</image:caption>
+      <image:title>Tenth Line - Bash - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1612/delete-duplicate-emails-sql-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-16T11:31:37.404Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/a8c368b1-ddbd-45ca-96b4-7558b7166a74.jpg</image:loc>
+      <image:caption>Delete Duplicate Emails - SQL - Easy - LeetCode</image:caption>
+      <image:title>Delete Duplicate Emails - SQL - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1613/rising-temperature-sql-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-16T11:40:52.328Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/ac130fd7-abdd-4db8-9e17-cccc1048a681.jpg</image:loc>
+      <image:caption>Rising Temperature - SQL - Easy - LeetCode</image:caption>
+      <image:title>Rising Temperature - SQL - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1614/fizz-buzz-list-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-16T11:55:50.939Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/6cbe0cee-fefe-40d0-8e0c-36270b4fa350.jpg</image:loc>
+      <image:caption>Fizz Buzz - List - Easy - LeetCode</image:caption>
+      <image:title>Fizz Buzz - List - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1615/license-key-formatting-string-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-17T04:06:32.538Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/168f3a9d-b3aa-4758-a48d-b2e53a3ad538.jpg</image:loc>
+      <image:caption>License Key Formatting - String - Easy - LeetCode</image:caption>
+      <image:title>License Key Formatting - String - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1616/construct-the-rectangle-maths-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-17T04:17:06.352Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/b45219ed-7740-49ab-9ef5-a30a75eda886.jpg</image:loc>
+      <image:caption>Construct the Rectangle - Maths - Easy - LeetCode</image:caption>
+      <image:title>Construct the Rectangle - Maths - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1617/relative-ranks-array-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-17T05:31:07.765Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/999e367f-6673-49be-9d6a-411dd5e1e1e2.jpg</image:loc>
+      <image:caption>Relative Ranks - Array - Easy - LeetCode</image:caption>
+      <image:title>Relative Ranks - Array - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1618/big-countries-sql-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-17T05:35:04.401Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/6ebd2b15-7c5c-49e4-8989-4100969f8797.jpg</image:loc>
+      <image:caption>Big Countries - Sql - Easy - LeetCode</image:caption>
+      <image:title>Big Countries - Sql - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1619/classes-more-than-5-students-sql-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-17T06:01:38.886Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/e71c8d7a-4f1f-4f65-8676-b2f2b13032cb.jpg</image:loc>
+      <image:caption>Classes More Than 5 Students - Sql - Easy - LeetCode</image:caption>
+      <image:title>Classes More Than 5 Students - Sql - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1620/not-boring-movies-sql-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-17T06:24:53.421Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/2264c3af-9542-4c4d-946f-2d631ae1b7f8.jpg</image:loc>
+      <image:caption>Not Boring Movies - Sql - Easy - LeetCode</image:caption>
+      <image:title>Not Boring Movies - Sql - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1621/swap-salary-sql-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-17T06:36:00.564Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/d5dae622-be43-4a7d-a90e-4173c15f3195.jpg</image:loc>
+      <image:caption>Swap Salary - Sql - Easy - LeetCode</image:caption>
+      <image:title>Swap Salary - Sql - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1622/rotate-string-string-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-17T06:43:14.01Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/021208ce-72e5-4026-a526-0c8b482a8d72.jpg</image:loc>
+      <image:caption>Rotate String - String - Easy - LeetCode</image:caption>
+      <image:title>Rotate String - String - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1623/number-of-lines-to-write-string-string-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-17T11:18:22.116Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/1c27d36c-1576-4ab8-bf0a-6787e2a1a3a0.jpg</image:loc>
+      <image:caption>Number of Lines To Write String - String - Easy - LeetCode</image:caption>
+      <image:title>Number of Lines To Write String - String - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1624/shortest-distance-to-a-character-array-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-18T03:37:18.655Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/5ae5fc7c-ff85-4fa4-b353-2d4b89a92b76.jpg</image:loc>
+      <image:caption>Shortest Distance to a Character - Array - Easy - LeetCode</image:caption>
+      <image:title>Shortest Distance to a Character - Array - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1625/print-in-order-multi-threading-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-18T04:04:52.636Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/3e17a90d-8d3d-4655-9ad5-34bee8157e21.jpg</image:loc>
+      <image:caption>Print in Order - Multi Threading - Easy - LeetCode</image:caption>
+      <image:title>Print in Order - Multi Threading - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1626/reformat-department-table-sql-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-18T04:10:34.638Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/59cdadef-bfee-4b37-bafa-ad7569c32e3f.jpg</image:loc>
+      <image:caption>Reformat Department Table - Sql - Easy - LeetCode</image:caption>
+      <image:title>Reformat Department Table - Sql - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1627/number-of-days-between-two-dates-maths-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-18T06:18:17.665Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/c8c70ab5-92c2-4bfd-ad83-d0a6afbe3ded.jpg</image:loc>
+      <image:caption>Number of Days Between Two Dates - Maths - Easy - LeetCode</image:caption>
+      <image:title>Number of Days Between Two Dates - Maths - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1628/special-array-with-x-elements-greater-than-or-equal-x-array-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-18T06:57:30.65Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/8f426000-750a-4ff1-bb71-5a34851ae354.jpg</image:loc>
+      <image:caption>Special Array With X Elements Greater Than or Equal X - Array - Easy - LeetCode</image:caption>
+      <image:title>Special Array With X Elements Greater Than or Equal X - Array - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1629/maximum-nesting-depth-of-the-parentheses-stack-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-18T08:20:41.012Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/9d515e72-4c83-4541-9650-c0972215972d.jpg</image:loc>
+      <image:caption>Maximum Nesting Depth of the Parentheses - Stack - Easy - LeetCode</image:caption>
+      <image:title>Maximum Nesting Depth of the Parentheses - Stack - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1630/mean-of-array-after-removing-some-elements-array-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-18T09:36:35.59Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/9f50a4a2-b70b-453a-934d-064ef9684592.jpg</image:loc>
+      <image:caption>Mean of Array After Removing Some Elements - Array - Easy - LeetCode</image:caption>
+      <image:title>Mean of Array After Removing Some Elements - Array - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1631/largest-substring-between-two-equal-characters-array-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-18T09:57:48.765Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/696afb81-fd63-43c4-a6e8-038e3152e83e.jpg</image:loc>
+      <image:caption>Largest Substring Between Two Equal Characters - Array - Easy - LeetCode</image:caption>
+      <image:title>Largest Substring Between Two Equal Characters - Array - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1632/container-with-most-water-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-18T15:54:07.342Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/fc25ea42-813c-4de4-be8b-eb874d415c58.jpg</image:loc>
+      <image:caption>Container With Most Water - Array - Medium - LeetCode</image:caption>
+      <image:title>Container With Most Water - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1633/3sum-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-19T04:39:21.598Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/b05855a6-ac78-4434-a041-4682444c76bc.jpg</image:loc>
+      <image:caption>3Sum - Array - Medium - LeetCode</image:caption>
+      <image:title>3Sum - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1634/3sum-closest-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-23T07:22:55.266Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/981f57b3-a4c6-4c16-baeb-a49e75fe9497.jpg</image:loc>
+      <image:caption>3Sum Closest - Array - Medium - LeetCode</image:caption>
+      <image:title>3Sum Closest - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1635/new-year-chaos-array-medium-hackerrank/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-24T07:15:13.568Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/53eb9e67-4065-4a48-af84-1ab48ec4ee5e.jpg</image:loc>
+      <image:caption>New Year Chaos - Array - Medium - HackerRank</image:caption>
+      <image:title>New Year Chaos - Array - Medium - HackerRank</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1636/two-strings-hashmap-easy-hackerrank/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-24T07:22:22.952Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/b574251c-e9c0-4be6-9bc1-7c86f8da1806.jpg</image:loc>
+      <image:caption>Two Strings - HashMap - Easy - HackerRank</image:caption>
+      <image:title>Two Strings - HashMap - Easy - HackerRank</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1637/4sum-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-24T10:17:18.465Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/dadac4de-7510-4859-a826-eab8fa2011e3.jpg</image:loc>
+      <image:caption>4Sum - Array - Medium - LeetCode</image:caption>
+      <image:title>4Sum - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1638/next-permutation-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-24T11:59:00.039Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/467cc3d1-390e-4bc6-a589-9f2b2a7b6f67.jpg</image:loc>
+      <image:caption>Next Permutation - Array - Medium - LeetCode</image:caption>
+      <image:title>Next Permutation - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1639/search-in-rotated-sorted-array-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-24T14:15:23.602Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/92804ec8-8b64-41e0-a4f4-89ed11e1a5e2.jpg</image:loc>
+      <image:caption>Search in Rotated Sorted Array - Array - Medium - LeetCode</image:caption>
+      <image:title>Search in Rotated Sorted Array - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1640/find-first-and-last-position-of-element-in-sorted-array-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-25T13:25:43.128Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/4dd548b4-7f64-4384-8000-de99e5e3a765.jpg</image:loc>
+      <image:caption>Find First and Last Position of Element in Sorted Array - Array - Medium - LeetCode</image:caption>
+      <image:title>Find First and Last Position of Element in Sorted Array - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1641/combination-sum-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-25T14:37:53.305Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/b42ea67c-de94-42f6-aa57-391837827a47.jpg</image:loc>
+      <image:caption>Combination Sum - Array - Medium - LeetCode</image:caption>
+      <image:title>Combination Sum - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1642/combination-sum-ii-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-25T16:13:43.44Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/134b4baa-680a-45e5-b0df-c627789e2d42.jpg</image:loc>
+      <image:caption>Combination Sum II - Array - Medium - LeetCode</image:caption>
+      <image:title>Combination Sum II - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1643/rotate-image-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-26T13:36:36.406Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/1aaf92bb-a6af-4473-a7da-686247f16016.jpg</image:loc>
+      <image:caption>Rotate Image - Array - Medium - LeetCode</image:caption>
+      <image:title>Rotate Image - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1644/spiral-matrix-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-27T07:19:48.756Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/37d1b470-7389-4e05-97b1-d92ce68eb1ba.jpg</image:loc>
+      <image:caption>Spiral Matrix - Array - Medium - LeetCode</image:caption>
+      <image:title>Spiral Matrix - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1645/jump-game-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-28T06:44:52.67Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/a22e7bed-85b5-4837-89ef-0da32c81085c.jpg</image:loc>
+      <image:caption>Jump Game - Array - Medium - LeetCode</image:caption>
+      <image:title>Jump Game - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1646/merge-intervals-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-30T13:34:58.66Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/a1913eb6-6b8f-4cbb-9c4e-096c9e76c6cd.jpg</image:loc>
+      <image:caption>Merge Intervals - Array - Medium - LeetCode</image:caption>
+      <image:title>Merge Intervals - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1647/slowest-key-array-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-31T03:14:48.648Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/836f29a5-8a43-4160-b64a-fbf8416788bd.jpg</image:loc>
+      <image:caption>Slowest Key - Array - Easy - LeetCode</image:caption>
+      <image:title>Slowest Key - Array - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1648/insert-interval-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-31T06:40:18.214Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/5a35d970-95af-493c-9aca-0b4bed037719.jpg</image:loc>
+      <image:caption>Insert Interval - Array - Medium - LeetCode</image:caption>
+      <image:title>Insert Interval - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1649/spiral-matrix-ii-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-31T08:11:30.766Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/6df8412b-55e5-4d25-9094-489e2623ffe0.jpg</image:loc>
+      <image:caption>Spiral Matrix II - Array - Medium - LeetCode</image:caption>
+      <image:title>Spiral Matrix II - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1650/unique-paths-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-31T08:21:40.324Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/7d520a0b-1d85-4323-8864-5769e8bcd088.jpg</image:loc>
+      <image:caption>Unique Paths - Array - Medium - LeetCode</image:caption>
+      <image:title>Unique Paths - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1651/unique-paths-ii-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-31T08:51:41.7Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/ca5278d5-6ee2-45fc-9c8e-7f12ff9f0357.jpg</image:loc>
+      <image:caption>Unique Paths II - Array - Medium - LeetCode</image:caption>
+      <image:title>Unique Paths II - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1652/minimum-path-sum-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-31T09:04:16.725Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/d9f5ff7a-791f-41b0-89b0-f12760706d99.jpg</image:loc>
+      <image:caption>Minimum Path Sum - Array - Medium - LeetCode</image:caption>
+      <image:title>Minimum Path Sum - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1653/set-matrix-zeroes-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-31T09:17:33.085Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/42006195-6b88-4b4d-a2d3-c695139d16b7.jpg</image:loc>
+      <image:caption>Set Matrix Zeroes - Array - Medium - LeetCode</image:caption>
+      <image:title>Set Matrix Zeroes - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1654/search-a-2d-matrix-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-31T10:10:15.329Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/4ecd9aac-a00a-4a8f-ad7b-e7e4a75307ac.jpg</image:loc>
+      <image:caption>Search a 2D Matrix - Array - Medium - LeetCode</image:caption>
+      <image:title>Search a 2D Matrix - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1655/sort-colors-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-31T11:30:24.576Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/d14c2a98-a56d-44ac-9a21-2ed77349737c.jpg</image:loc>
+      <image:caption>Sort Colors - Array - Medium - LeetCode</image:caption>
+      <image:title>Sort Colors - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1656/subsets-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-10-31T16:06:19.933Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/a85784d1-277b-48bf-aca6-1481f4252c7a.jpg</image:loc>
+      <image:caption>Subsets - Array - Medium - LeetCode</image:caption>
+      <image:title>Subsets - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1657/word-search-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-01T06:18:12.117Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/20ea8361-3e30-4ec3-92da-00e3f7512213.jpg</image:loc>
+      <image:caption>Word Search - Array - Medium - LeetCode</image:caption>
+      <image:title>Word Search - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1658/remove-duplicates-from-sorted-array-ii-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-01T11:57:54.983Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/354cc221-dcd4-4077-91b3-0f1bd91088b2.jpg</image:loc>
+      <image:caption>Remove Duplicates from Sorted Array II - Array - Medium - LeetCode</image:caption>
+      <image:title>Remove Duplicates from Sorted Array II - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1659/sort-array-by-increasing-frequency-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-03T05:10:52.862Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/0607b46b-96fe-470e-a316-ee8bf5aeee8e.jpg</image:loc>
+      <image:caption>Sort Array by Increasing Frequency - Array - Medium - LeetCode</image:caption>
+      <image:title>Sort Array by Increasing Frequency - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1660/check-array-formation-through-concatenation-array-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-03T06:50:53.205Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/85392267-2028-4c02-8f8a-96c1d2368591.jpg</image:loc>
+      <image:caption>Check Array Formation Through Concatenation - Array - Easy - LeetCode</image:caption>
+      <image:title>Check Array Formation Through Concatenation - Array - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1661/get-maximum-in-generated-array-array-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-08T08:10:45.589Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/6268cd06-1d1b-409d-9665-cbe40d65c81d.jpg</image:loc>
+      <image:caption>Get Maximum in Generated Array - Array - Easy - LeetCode</image:caption>
+      <image:title>Get Maximum in Generated Array - Array - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1662/search-in-rotated-sorted-array-ii-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-10T06:51:33.729Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/f90b9cf1-f98d-483f-9cb6-f0ccc23c9c57.jpg</image:loc>
+      <image:caption>Search in Rotated Sorted Array II - Array - Medium - LeetCode</image:caption>
+      <image:title>Search in Rotated Sorted Array II - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1663/defuse-the-bomb-array-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-15T15:48:43.094Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/e0c7ac1d-e52e-489e-849e-a7842cdb2c18.jpg</image:loc>
+      <image:caption>Defuse the Bomb - Array - Easy - LeetCode</image:caption>
+      <image:title>Defuse the Bomb - Array - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1664/design-an-ordered-stream-array-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-16T03:10:15.886Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/ee2c2f78-fadb-4eec-b972-5425cc0c84b8.jpg</image:loc>
+      <image:caption>Design an Ordered Stream - Array - Easy - LeetCode</image:caption>
+      <image:title>Design an Ordered Stream - Array - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1665/subsets-ii-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-17T08:35:04.765Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/aaa8f566-bd39-4867-a4ad-9d2ec8eb9fec.jpg</image:loc>
+      <image:caption>Subsets II - Array - Medium - LeetCode</image:caption>
+      <image:title>Subsets II - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1666/construct-binary-tree-from-preorder-and-inorder-traversal-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-17T10:00:07.655Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/af4cfea8-d43c-4a5f-aded-bc8e7ebfe296.jpg</image:loc>
+      <image:caption>Construct Binary Tree from Preorder and Inorder Traversal - Array - Medium - LeetCode</image:caption>
+      <image:title>Construct Binary Tree from Preorder and Inorder Traversal - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1667/construct-binary-tree-from-inorder-and-postorder-traversal-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-17T10:15:16.628Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/eeacf71f-bde9-47d7-bf9d-4f6212eb787e.jpg</image:loc>
+      <image:caption>Construct Binary Tree from Inorder and Postorder Traversal - Array - Medium - LeetCode</image:caption>
+      <image:title>Construct Binary Tree from Inorder and Postorder Traversal - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1668/triangle-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-17T12:18:30.576Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/40571e99-73c8-48d0-aa94-4a53cb2adbce.jpg</image:loc>
+      <image:caption>Triangle - Array - Medium - LeetCode</image:caption>
+      <image:title>Triangle - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1669/maximum-product-subarray-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-17T12:27:13.842Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/7f1afad0-6986-4b75-b8b1-48cc2da5b308.jpg</image:loc>
+      <image:caption>Maximum Product Subarray - Array - Medium - LeetCode</image:caption>
+      <image:title>Maximum Product Subarray - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1670/find-minimum-in-rotated-sorted-array-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-18T02:57:02.762Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/d1be15f3-8f69-4050-83a2-f9c67ac5827b.jpg</image:loc>
+      <image:caption>Find Minimum in Rotated Sorted Array - Array - Medium - LeetCode</image:caption>
+      <image:title>Find Minimum in Rotated Sorted Array - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1671/find-peak-element-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-18T07:03:11.729Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/ddbfc17c-bd5c-47a2-8c7d-53508db12cab.jpg</image:loc>
+      <image:caption>Find Peak Element - Array - Medium - LeetCode</image:caption>
+      <image:title>Find Peak Element - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1672/rotate-array-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-18T07:21:33.323Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/37fb5cd6-ca4d-4282-9a29-a03ba8523202.jpg</image:loc>
+      <image:caption>Rotate Array - Array - Medium - LeetCode</image:caption>
+      <image:title>Rotate Array - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1673/minimum-size-subarray-sum-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-18T09:07:23.659Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/9cd5847f-8b41-455d-8ac3-9b66f2dcb47e.jpg</image:loc>
+      <image:caption>Minimum Size Subarray Sum - Array - Medium - LeetCode</image:caption>
+      <image:title>Minimum Size Subarray Sum - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1674/combination-sum-iii-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-18T11:38:14.249Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/becf4b84-69f9-4582-a8d7-d32b8422353a.jpg</image:loc>
+      <image:caption>Combination Sum III - Array - Medium - LeetCode</image:caption>
+      <image:title>Combination Sum III - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1675/majority-element-ii-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-18T12:22:35.442Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/17b104bf-91b6-48b5-a7b8-2d58b5ba4b4e.jpg</image:loc>
+      <image:caption>Majority Element II - Array - Medium - LeetCode</image:caption>
+      <image:title>Majority Element II - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1676/product-of-array-except-self-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-18T12:44:53.26Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/454cf76b-ed84-4192-9a20-cb564088e9c1.jpg</image:loc>
+      <image:caption>Product of Array Except Self - Array - Medium - LeetCode</image:caption>
+      <image:title>Product of Array Except Self - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1677/find-the-duplicate-number-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-18T13:09:46.723Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/85d20211-e54a-42fd-9300-e83bc02b7ffe.jpg</image:loc>
+      <image:caption>Find the Duplicate Number - Array - Medium - LeetCode</image:caption>
+      <image:title>Find the Duplicate Number - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1678/game-of-life-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-19T03:57:33.216Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/67a9ece8-2eeb-48f8-8881-4af10f198260.jpg</image:loc>
+      <image:caption>Game of Life - Array - Medium - LeetCode</image:caption>
+      <image:title>Game of Life - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1679/insert-delete-getrandom-o1-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-19T06:35:19.394Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/8589fcba-acbd-4690-8c6e-3f8e5511c176.jpg</image:loc>
+      <image:caption>Insert Delete GetRandom O(1) - Array - Medium - LeetCode</image:caption>
+      <image:title>Insert Delete GetRandom O(1) - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1680/find-all-duplicates-in-an-array-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-19T07:32:30.12Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/5a6c2b89-77d6-4d5e-978b-35b19f85ed66.jpg</image:loc>
+      <image:caption>Find All Duplicates in an Array - Array - Medium - LeetCode</image:caption>
+      <image:title>Find All Duplicates in an Array - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1681/circular-array-loop-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-19T09:05:14.582Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/32298a91-8bd5-4e63-872d-105103726a20.jpg</image:loc>
+      <image:caption>Circular Array Loop - Array - Medium - LeetCode</image:caption>
+      <image:title>Circular Array Loop - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1682/teemo-attacking-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-20T03:16:00.413Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/03f183b7-2b4e-49b5-9009-249834a17a2e.jpg</image:loc>
+      <image:caption>Teemo Attacking - Array - Medium - LeetCode</image:caption>
+      <image:title>Teemo Attacking - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1683/how-to-approach-a-system-design-interview-question/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-20T04:36:13.542Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/fbaef721-6795-45be-bd0a-7e132d4a2788.jpg</image:loc>
+      <image:caption>How to approach a system design interview question?</image:caption>
+      <image:title>How to approach a system design interview question?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1684/how-to-design-pastebin.com-or-bit.ly/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-20T05:04:26.605Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/9d14bd09-d9e3-48e7-8309-9e324e9d51de.jpg</image:loc>
+      <image:caption>How to Design Pastebin.com (or Bit.ly)</image:caption>
+      <image:title>How to Design Pastebin.com (or Bit.ly)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1685/how-to-design-the-twitter-timeline-and-search/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-20T06:39:08.542Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/4cffb0b1-c317-4027-9ff2-188ac3240e74.jpg</image:loc>
+      <image:caption>How to Design the Twitter timeline and search</image:caption>
+      <image:title>How to Design the Twitter timeline and search</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1686/how-to-design-a-web-crawler/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-20T06:48:08.443Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/f983d8a0-6ee2-4024-8702-47973c582627.png</image:loc>
+      <image:caption>How to Design a web crawler</image:caption>
+      <image:title>How to Design a web crawler</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1687/how-to-design-mint.com/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-20T06:53:36.94Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/2709cf5f-1f6f-435b-bf00-9cf152142df5.png</image:loc>
+      <image:caption>How to Design Mint.com</image:caption>
+      <image:title>How to Design Mint.com</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1688/how-to-design-the-data-structures-for-a-social-network/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-20T06:57:27.446Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/031621dc-30c0-4e0d-ba31-1f20a3884f5c.jpg</image:loc>
+      <image:caption>How to Design the data structures for a social network</image:caption>
+      <image:title>How to Design the data structures for a social network</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1712/how-to-design-a-key-value-cache-to-save-the-results-of-the-most-recent-web-server-queries/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-20T06:59:59.352Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/0e55c5af-9a54-497f-a246-ff16a71e6bbf.png</image:loc>
+      <image:caption>How to Design a key-value cache to save the results of the most recent web server queries</image:caption>
+      <image:title>How to Design a key-value cache to save the results of the most recent web server queries</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1689/how-to-design-amazons-sales-rank-by-category-feature/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-20T07:01:53.823Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/6a724e39-5b07-478b-a4ae-af8ecae9210e.jpg</image:loc>
+      <image:caption>How to Design Amazon's sales rank by category feature</image:caption>
+      <image:title>How to Design Amazon's sales rank by category feature</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1690/how-to-design-a-system-that-scales-to-millions-of-users-on-aws/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-20T07:08:06.04Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/c4c206e1-63c2-46f8-a9b3-076b94e481a7.png</image:loc>
+      <image:caption>How to Design a system that scales to millions of users on AWS</image:caption>
+      <image:title>How to Design a system that scales to millions of users on AWS</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1691/performance-vs-scalability/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-20T07:27:09.907Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/007e63be-5ce4-4cc9-a98c-26b5f0af31ae.png</image:loc>
+      <image:caption>Performance vs scalability</image:caption>
+      <image:title>Performance vs scalability</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1692/latency-vs-throughput/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-20T07:28:15.212Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/9e97e6f4-fec4-4e60-8bb0-618e048a04a5.jpg</image:loc>
+      <image:caption>Latency vs throughput</image:caption>
+      <image:title>Latency vs throughput</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1693/availability-vs-consistency/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-20T07:30:26.472Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/a22695c8-b2d8-4ca6-8546-265c07e566d7.png</image:loc>
+      <image:caption>Availability vs consistency</image:caption>
+      <image:title>Availability vs consistency</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1694/what-is-domain-name-system-dns/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-20T07:33:33.359Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/5d73c05a-94c0-45e6-b648-a89025ffe4e8.png</image:loc>
+      <image:caption>What is Domain name system (DNS)?</image:caption>
+      <image:title>What is Domain name system (DNS)?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1695/content-delivery-network-cdn/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-20T07:35:35.322Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/57adef3f-d788-4753-bda7-a12a6bc0d462.jpg</image:loc>
+      <image:caption>Content delivery network (CDN)</image:caption>
+      <image:title>Content delivery network (CDN)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1696/what-is-load-balancer/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-20T07:37:16.113Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/bf29fc63-378c-41be-832e-77c965333bfb.png</image:loc>
+      <image:caption>What is Load balancer?</image:caption>
+      <image:title>What is Load balancer?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1697/what-is-reverse-proxy-web-server/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-20T07:38:45.525Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/c9b9941f-ccf0-43b6-8c8d-af837fe0b02d.jpg</image:loc>
+      <image:caption>What is Reverse proxy (web server)</image:caption>
+      <image:title>What is Reverse proxy (web server)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1698/what-is-application-layer/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-20T07:40:05.453Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/6faa8ad3-f4c7-411a-a351-f5721537582b.jpg</image:loc>
+      <image:caption>What is Application layer?</image:caption>
+      <image:title>What is Application layer?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1699/database-tutorial/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-20T07:42:01.215Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/c7cd88d2-763e-4ef9-9beb-362cd1bf07b7.jpg</image:loc>
+      <image:caption>Database Tutorial</image:caption>
+      <image:title>Database Tutorial</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1700/asynchronism-tutorial/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-20T07:45:07.976Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/0b59af20-c986-4d3f-b12b-304dc3797df3.png</image:loc>
+      <image:caption>Asynchronism Tutorial</image:caption>
+      <image:title>Asynchronism Tutorial</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1701/k-diff-pairs-in-an-array-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-20T09:11:56.252Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/8c421996-adef-4a2c-b776-f3e3810e1e3b.jpg</image:loc>
+      <image:caption>K-diff Pairs in an Array - Array - Medium - LeetCode</image:caption>
+      <image:title>K-diff Pairs in an Array - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1702/subarray-sum-equals-k-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-21T04:33:27.536Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/5dec0e7e-af11-40c9-b0bb-98503e290084.jpg</image:loc>
+      <image:caption>Subarray Sum Equals K - Array - Medium - LeetCode</image:caption>
+      <image:title>Subarray Sum Equals K - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1703/array-nesting-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-21T07:20:11.837Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/5da00dcd-3cd3-4eb0-a2ee-26865bba7184.jpg</image:loc>
+      <image:caption>Array Nesting - Array - Medium - LeetCode</image:caption>
+      <image:title>Array Nesting - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1704/shortest-unsorted-continuous-subarray-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-21T08:37:59.841Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/8ae155ae-c65a-4be5-8bc2-0e72f6588a6a.jpg</image:loc>
+      <image:caption>Shortest Unsorted Continuous Subarray - Array - Medium - LeetCode</image:caption>
+      <image:title>Shortest Unsorted Continuous Subarray - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1705/valid-triangle-number-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-21T14:33:17.755Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/1cec6b01-c299-43b3-909b-3fb5fb1661e2.jpg</image:loc>
+      <image:caption>Valid Triangle Number - Array - Medium - LeetCode</image:caption>
+      <image:title>Valid Triangle Number - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1706/check-if-two-string-arrays-are-equivalent-string-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-11-24T13:04:50.906Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/38460c51-4f08-46d0-82ef-1f2263c60127.jpg</image:loc>
+      <image:caption>Check If Two String Arrays are Equivalent - String - Easy - LeetCode</image:caption>
+      <image:title>Check If Two String Arrays are Equivalent - String - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1707/maximum-repeating-substring-string-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-12-02T09:09:24.372Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/6c2a7180-5aaa-46ea-9f10-28d9ae8d0784.jpg</image:loc>
+      <image:caption>Maximum Repeating Substring - String - Easy - LeetCode</image:caption>
+      <image:title>Maximum Repeating Substring - String - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1708/richest-customer-wealth-string-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-12-02T09:18:55.989Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/030389b7-ce6f-4ad2-b65b-dcfe84bba591.jpg</image:loc>
+      <image:caption>Richest Customer Wealth - String - Easy - LeetCode</image:caption>
+      <image:title>Richest Customer Wealth - String - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1709/goal-parser-interpretation-string-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-12-07T04:02:17.242Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/1a301e38-c33f-42ee-b91b-84f1471554f8.jpg</image:loc>
+      <image:caption>Goal Parser Interpretation - String - Easy - LeetCode</image:caption>
+      <image:title>Goal Parser Interpretation - String - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1710/count-the-number-of-consistent-strings-string-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-12-28T13:45:12.666Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/6dacc55b-f13f-4e2c-a0ff-d00050cfb65a.jpg</image:loc>
+      <image:caption>Count the Number of Consistent Strings - String - Easy - LeetCode</image:caption>
+      <image:title>Count the Number of Consistent Strings - String - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1711/count-of-matches-in-tournament-string-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2020-12-28T14:11:55.184Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/d4fba4b6-ab89-4548-aaf7-f9918522d7dd.jpg</image:loc>
+      <image:caption>Count of Matches in Tournament - String - Easy - LeetCode</image:caption>
+      <image:title>Count of Matches in Tournament - String - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1713/reformat-phone-number-string-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2021-01-05T04:22:00.273Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/716c7816-48e6-45e6-840e-df068e41c6f6.jpg</image:loc>
+      <image:caption>Reformat Phone Number - String - Easy - LeetCode</image:caption>
+      <image:title>Reformat Phone Number - String - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1714/number-of-students-unable-to-eat-lunch-string-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2021-01-06T10:28:12.288Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/dad639fe-8bb2-4bcd-ba3d-af4e7cb5299b.jpg</image:loc>
+      <image:caption>Number of Students Unable to Eat Lunch - String - Easy - LeetCode</image:caption>
+      <image:title>Number of Students Unable to Eat Lunch - String - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1715/determine-if-string-halves-are-alike-string-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2021-01-08T09:24:20.084Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/8d5b87e0-0bd8-47c9-8f55-cfff94e5858d.jpg</image:loc>
+      <image:caption>Determine if String Halves Are Alike - String - Easy - LeetCode</image:caption>
+      <image:title>Determine if String Halves Are Alike - String - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1716/maximum-units-on-a-truck-array-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2021-01-08T09:46:00.078Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/3aedf9be-e325-4d16-b5ad-e180a12291dc.jpg</image:loc>
+      <image:caption>Maximum Units on a Truck - Array - Easy - LeetCode</image:caption>
+      <image:title>Maximum Units on a Truck - Array - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1717/task-scheduler-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2021-01-09T09:25:33.09Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/ce3e557e-274e-4956-a16f-a62c66777be4.jpg</image:loc>
+      <image:caption>Task Scheduler - Array - Medium - LeetCode</image:caption>
+      <image:title>Task Scheduler - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1718/calculate-money-in-leetcode-bank-maths-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2021-01-10T05:17:40.265Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/8f7ac85a-3434-4f99-ba13-6b64b13831b7.jpg</image:loc>
+      <image:caption>Calculate Money in Leetcode Bank - Maths - Easy - LeetCode</image:caption>
+      <image:title>Calculate Money in Leetcode Bank - Maths - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1719/decode-xored-array-array-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2021-01-10T05:22:41.53Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/e7567a26-e981-4e66-9863-f88f7de7e66d.jpg</image:loc>
+      <image:caption>Decode XORed Array - Array - Easy - LeetCode</image:caption>
+      <image:title>Decode XORed Array - Array - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1720/number-of-rectangles-that-can-form-the-largest-square-array-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2021-01-18T12:11:43.515Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/a3758d97-0c9c-4e59-860a-b2f31b1f95ab.jpg</image:loc>
+      <image:caption>Number Of Rectangles That Can Form The Largest Square - Array - Easy - LeetCode</image:caption>
+      <image:title>Number Of Rectangles That Can Form The Largest Square - Array - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1721/find-the-highest-altitude-array-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2021-01-26T09:15:23.937Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/0cd60e05-bb63-481c-ac68-c3417eabb1cb.jpg</image:loc>
+      <image:caption>Find the Highest Altitude - Array - Easy - LeetCode</image:caption>
+      <image:title>Find the Highest Altitude - Array - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1722/latest-time-by-replacing-hidden-digits-string-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2021-01-26T09:27:17.976Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/370ef122-a2da-4596-8095-2a518775a5cb.jpg</image:loc>
+      <image:caption>Latest Time by Replacing Hidden Digits - String - Easy - LeetCode</image:caption>
+      <image:title>Latest Time by Replacing Hidden Digits - String - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1723/beautiful-arrangement-ii-maths-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2021-01-26T13:09:46.827Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/b2d502bc-0983-4102-b87f-e37eff0ed0db.jpg</image:loc>
+      <image:caption>Beautiful Arrangement II - Maths - Medium - LeetCode</image:caption>
+      <image:title>Beautiful Arrangement II - Maths - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1724/maximum-number-of-balls-in-a-box-maths-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2021-02-13T12:35:13.637Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/2c5a52f4-2d58-4245-8e1c-47060f1505b8.jpg</image:loc>
+      <image:caption>Maximum Number of Balls in a Box - Maths - Easy - LeetCode</image:caption>
+      <image:title>Maximum Number of Balls in a Box - Maths - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1725/sum-of-unique-elements-array-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2021-02-13T13:13:59.576Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/9e341651-0933-4893-84a8-1d3f65898dda.jpg</image:loc>
+      <image:caption>Sum of Unique Elements - Array - Easy - LeetCode</image:caption>
+      <image:title>Sum of Unique Elements - Array - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1726/maximum-swap-array-medium-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2021-03-04T10:16:54.289Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/16589057-204a-4929-8beb-ec745719515b.jpg</image:loc>
+      <image:caption>Maximum Swap - Array - Medium - LeetCode</image:caption>
+      <image:title>Maximum Swap - Array - Medium - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1727/check-if-array-is-sorted-and-rotated-array-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2021-03-31T05:53:27.431Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/2110d383-81cb-448a-8e4f-3773ff37294d.jpg</image:loc>
+      <image:caption>Check if Array Is Sorted and Rotated - Array - Easy - LeetCode</image:caption>
+      <image:title>Check if Array Is Sorted and Rotated - Array - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tejav.com/blog/1728/minimum-changes-to-make-alternating-binary-string-string-easy-leetcode/</loc>
+    <changefreq>weekly</changefreq>
+    <lastmod>2021-03-31T07:22:08.602Z</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/85c66994-0911-4abb-b06f-a20a0a11dcd4.jpg</image:loc>
+      <image:caption>Minimum Changes To Make Alternating Binary String - String - Easy - LeetCode</image:caption>
+      <image:title>Minimum Changes To Make Alternating Binary String - String - Easy - LeetCode</image:title>
+    </image:image>
+  </url>
+</urlset>
